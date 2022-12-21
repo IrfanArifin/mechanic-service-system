@@ -1,0 +1,14 @@
+Data tersimpan!
+nama Pelanggan : Irfan Arifin 
+Jenis Barang : Mesin cuci 
+Pilihan Layanan : Service
+No.HP : 082384923113
+Harga Total : 4600000
+
+Data tersimpan!
+nama Pelanggan : Irfan Arifin 
+Jenis Barang : Mesin cuci 
+Pilihan Layanan : Service
+No.HP : 082384923113
+Harga Total : 4600000
+
